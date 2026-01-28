@@ -29,3 +29,6 @@ obj/
 *.bak
 *.log
 
+# MacOS trash
+.DS_Store
+
